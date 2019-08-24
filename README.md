@@ -17,6 +17,7 @@ https://prezi.com/h0yrwawjo3q7/presentation/
 
 # 실험 결과
 직접 보시길.
+**혹은 Colaboratory 문서(diversity.ipynb)를 보아도 된다.**
 
 # 앞으로 할 일
 
